@@ -7,8 +7,8 @@ Residente de São Paulo - SP em busca de uma oportunidade para ingressar na áre
 
  <div>
   <a href="https://github.com/marcusvini21">
-  <img height="160em" src=https://github-readme-stats.vercel.app/api?username=marcusvini21&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true” / >
-  <img height="160em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvini21&layout=compact&langs_count=7&theme=cobalt / >
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusvini21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvini21&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
