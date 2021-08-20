@@ -12,10 +12,10 @@ Residente de São Paulo - SP em busca de uma oportunidade para ingressar na áre
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/java/java-plain-wordmark.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://lh3.googleusercontent.com/proxy/Zms2GQ6i0NfHPqXAZEoqAxeMRLO1gBiUuEF4-ld8PMPkZURT0Ih3Csg4ZsX4yd1w3Tc3GkHx74hTQYK8go2Y_pz6gU3A4J9ep2Cj-QZ2xkQ">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Rafa-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/java/java-plain-wordmark.svg">
+  <img align="center" alt="Rafa-Ts" height="50" width="60" src="https://lh3.googleusercontent.com/proxy/Zms2GQ6i0NfHPqXAZEoqAxeMRLO1gBiUuEF4-ld8PMPkZURT0Ih3Csg4ZsX4yd1w3Tc3GkHx74hTQYK8go2Y_pz6gU3A4J9ep2Cj-QZ2xkQ">
+  <img align="center" alt="Rafa-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-plain-wordmark.svg">
+  <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-plain.svg">
 </div>
 
   
