@@ -4,10 +4,11 @@ Residente de São Paulo - SP em busca de uma oportunidade para ingressar na áre
 - 🌱 Estudando Java, Banco de Dados (SQL) e linguagens Front;
 - ⚡ Aluno ativo da Generation Brasil, fui um dos 100 selecionados entre 2600 vagas do processo seletivo.
 ##
+
  <div>
   <a href="https://github.com/marcusvini21">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcusvini21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvini21&layout=compact&langs_count=3&theme=dracula"/>
+  <img height="160em" src=https://github-readme-stats.vercel.app/api?username=marcusvini21&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true” / >
+  <img height="160em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvini21&layout=compact&langs_count=7&theme=cobalt / >
 </div>
   
 <div style="display: inline_block"><br>
