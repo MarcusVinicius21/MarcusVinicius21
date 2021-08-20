@@ -5,10 +5,10 @@ Residente de São Paulo - SP em busca de uma oportunidade para ingressar na áre
 - ⚡ Aluno ativo da Generation Brasil, fui um dos 100 selecionados entre 2600 vagas do processo seletivo.
 ##
 
- <div>
-  <a href="https://github.com/marcusvini21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusvini21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvini21&layout=compact&langs_count=7&theme=dracula"/>
+<div>
+  <a href="https://github.com/marcusvinicius21">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=marcusvinicius21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvinicius21&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
