@@ -2,7 +2,7 @@ Residente de São Paulo - SP em busca de uma oportunidade para ingressar na áre
 
 - 🔭 Desenvolvedor Java Jr Full Stack em formação;
 - 🌱 Estudando Java, Banco de Dados (SQL) e linguagens Front;
-- ⚡ Aluno ativo da Generation Brasil, fui um dos 100 selecionados entre 2600 vagas do processo seletivo.
+- ⚡ Aluno ativo da Generation Brasil, fui um dos 100 selecionados entre 2600 participantes do processo seletivo.
 ##
 
 <div>
