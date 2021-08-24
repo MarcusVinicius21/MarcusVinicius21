@@ -12,10 +12,11 @@ Residente de São Paulo - SP em busca de uma oportunidade para ingressar na áre
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/java/java-plain-wordmark.svg">
-  <img align="center" alt="Rafa-Ts" height="50" width="60" src="https://imgur.com/la76BC2.png">
-  <img align="center" alt="Rafa-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Vini-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/java/java-plain-wordmark.svg">
+  <img align="center" alt="Vini-Portugol" height="50" width="60" src="https://imgur.com/la76BC2.png">
+  <img align="center" alt="Vini-Mysql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-plain-wordmark.svg">
+  <img align="center" alt="Vini-JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-plain.svg">
+   <img align="center" alt="Vini-Spring" height="45" width="55" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png">
 </div>
 
   
