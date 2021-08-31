@@ -1,4 +1,4 @@
-Residente de São Paulo - SP em busca de uma oportunidade para ingressar na área de TI.
+Residente em São Paulo - SP, em busca de uma oportunidade para ingressar na área de TI.
 
 - 🔭 Desenvolvedor Java Jr Full Stack em formação;
 - 🌱 Estudando Java, Banco de Dados (SQL) e linguagens Front;
