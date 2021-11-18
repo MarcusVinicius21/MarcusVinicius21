@@ -1,8 +1,8 @@
 Residente em São Paulo - SP, em busca de uma oportunidade para ingressar na área de TI.
 
-- 🔭 Desenvolvedor Java Jr Full Stack em formação;
-- 🌱 Estudando Java, Banco de Dados (SQL) e linguagens Front;
-- ⚡ Aluno ativo da Generation Brasil, fui um dos 100 selecionados entre 2600 participantes do processo seletivo.
+- 🔭 Desenvolvedor Java Jr Full Stack.
+- 🌱 Java, Banco de Dados (SQL), HTML/CSS e JavaScript;
+- ⚡ Aluno recém formados da Generation Brasil, fui um dos 100 selecionados entre 2600 participantes do processo seletivo.
 ##
 
 <div>
