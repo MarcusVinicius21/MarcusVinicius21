@@ -1,34 +1,60 @@
-Residente em São Paulo - SP, em busca de uma oportunidade para ingressar na área de TI.
-
-- 🔭 Desenvolvedor Java Jr Full Stack.
-- 🌱 Java, Banco de Dados (SQL), HTML/CSS e JavaScript;
-- ⚡ Aluno recém formados da Generation Brasil, fui um dos 100 selecionados entre 2600 participantes do processo seletivo.
-##
-
-<div>
-  <a href="https://github.com/marcusvinicius21">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcusvinicius21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvinicius21&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vini-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/java/java-plain-wordmark.svg">
-  <img align="center" alt="Vini-Portugol" height="50" width="60" src="https://imgur.com/la76BC2.png">
-  <img align="center" alt="Vini-Mysql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="Vini-JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-plain.svg">
-   <img align="center" alt="Vini-Spring" height="45" width="55" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png">
+<div align="center">
+  <h1>Olá, eu sou o Vini! 🚀</h1>
+  <h3>Desenvolvedor Full Stack | Construção de Soluções com IA</h3>
+  <p><em>Desenvolvendo aplicações, automações e funis orientados a dados com foco em entrega rápida e funcional.</em></p>
 </div>
 
-  
-  ##
-  
-  <div> 
- <a href="https://discord.gg/JEyQ67GM" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/marcus-vin%C3%ADcius-gomes-b9503371/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="mailto:marcusgomes21@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
- <a href="https://wa.me/5511958675891" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- <a href="https://account.xbox.com/pt-br/profile?gamertag=ViniMadrugao" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank"></a>
-  </div>
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+---
+
+## 👨‍💻 Sobre mim
+
+Atuo na interseção entre desenvolvimento web, produto e conversão.
+
+Meu foco está em estruturar problemas, definir a lógica de sistemas e utilizar IA como ferramenta para acelerar o desenvolvimento e validação de soluções. 
+
+Trabalho com um modelo pragmático e focado na resolução real do problema:
+* **1.** Definição da arquitetura e fluxo de dados.
+* **2.** Desenvolvimento acelerado com IA para estruturar rotas e componentes.
+* **3.** Validação humana, ajustes finos e integração de tracking.
+
+- 🎯 **Foco:** Integração com APIs e manipulação de dados.
+- ⚙️ **Automação:** Construção de fluxos funcionais (OSINT, Web Scraping).
+- 📊 **Métricas:** Implementação de tracking e análise de eventos (Pixel, CAPI).
+
+---
+
+## 🛠️ Stack & Ferramentas
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,mysql,git,vercel&theme=dark" alt="Minha Stack" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <em>Experiência prática com: Express, REST APIs, Web Scraping, manipulação de DOM e ecossistema de tracking.</em>
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcusvinicius21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+</div>
+
+---
+
+## 📬 Vamos conectar!
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/marcus-vinícius-gomes-b9503371/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:marcusgomes21@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
+  </a>
+  <a href="https://wa.me/5511958675891" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</div>
